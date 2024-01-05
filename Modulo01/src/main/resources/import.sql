@@ -1,0 +1,5 @@
+insert into persona (id,cedula, nombre,direccion,edad) values (1,'111','persona1','direccion1',1)
+insert into persona (id,cedula,nombre,direccion,edad) values (2,'222','persona2','direccion2',2)
+insert into persona (id,cedula,nombre,direccion,edad) values (3,'333','persona3','direccion3',3)
+insert into persona (id,cedula,nombre,direccion,edad) values (4,'444','persona4','direccion4',4)
+insert into persona (id,cedula,nombre,direccion,edad) values (5,'555','persona5','direccion5',5)
